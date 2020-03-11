@@ -1,0 +1,34 @@
+
+
+
+td {
+    background: lightyellow;
+    padding: 5px;
+    }
+    th {
+        background: deepskyblue;
+        padding: 5px;
+        color:white;
+        }
+        .delete {
+            border-radius: 7px;
+            color: black;
+            background: red;
+            height: 40px;
+            width: 100px;
+        }
+        .add {
+            border-radius: 7px;
+            background: #000;
+            color: #fff;
+            width: 100px;
+            height: 40px;
+        }
+        input {
+            height:40px;
+            width: 300px;
+        }
+    .main {
+        margin: 10em;
+        
+    }
